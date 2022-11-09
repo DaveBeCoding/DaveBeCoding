@@ -3,10 +3,10 @@
 <h2> About me :smiley: </h2>
 <p>C/C++ Software Engineer</p>
 
-- <p>👋 I enjoy challenges :octocat: </p>
-- <p>:alien: Currently learning Machine Learning :alien:</p>
 - <p>:video_game: Big Nerd :sunglasses:</p>
 - <p>:sunny: Hiking is Cool :earth_americas:</p>
+- <p>👋 I enjoy challenges :octocat: </p>
+- <p>:alien: Currently learning Machine Learning :alien:</p>
 - <p>:computer: I study Computer Science at California State University, Fullerton :mortar_board:</p>  
 
 <!-- - 👋 Hi, I’m @DaveBeCoding
@@ -31,7 +31,7 @@
 
 <h2>:sparkles: Languages & tools:sparkles: </h2>
 
-[![My Skills](https://skillicons.dev/icons?i=cpp,c,cmake,py,bash,github,js,docker,react,neovim,nodejs,md,aws,jenkins,gitlab,firbase,django,md,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,c,cmake,py,bash,github,js,docker,react,neovim,nodejs,md,aws,tensorflow,jenkins,gitlab,firbase,django,md,qt,raspberrypi,visualstudio,vscode,vue,vim,linux)](https://skillicons.dev)
 
 <!---
 DaveBeCoding/DaveBeCoding is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
