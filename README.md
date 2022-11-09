@@ -7,7 +7,7 @@
 - <p>:sunny: Hiking is Cool :earth_americas:</p>
 - <p>👋 I enjoy challenges :octocat: </p>
 - <p>:alien: Currently learning Machine Learning :alien:</p>
-- <p>:computer: I study Computer Science at California State University, Fullerton :mortar_board:</p>  
+- <p>:computer: I studied Computer Science at California State University, Fullerton :mortar_board:</p>  
 
 - 📫 How to reach me ... @CRYPTOMONTANA01 ![icons8-twitter-16](https://user-images.githubusercontent.com/70411835/168958894-1b2be630-5859-40ec-9648-227ec63111f5.png)
 
