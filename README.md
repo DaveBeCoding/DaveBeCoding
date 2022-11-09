@@ -9,6 +9,8 @@
 - <p>:alien: Currently learning Machine Learning :alien:</p>
 - <p>:computer: I study Computer Science at California State University, Fullerton :mortar_board:</p>  
 
+- 📫 How to reach me ... @CRYPTOMONTANA01 ![icons8-twitter-16](https://user-images.githubusercontent.com/70411835/168958894-1b2be630-5859-40ec-9648-227ec63111f5.png)
+
 <!-- - 👋 Hi, I’m @DaveBeCoding
 - 👀 I’m interested in ... Machine Learning research :computer:
 - 🌱 I’m currently learning ... DevOps :checkered_flag:
@@ -16,6 +18,7 @@
 - 📫 How to reach me ... @CRYPTOMONTANA01 ![icons8-twitter-16](https://user-images.githubusercontent.com/70411835/168958894-1b2be630-5859-40ec-9648-227ec63111f5.png)
  -->
 
+<h2>:sparkles: Most used Languages :sparkles: </h2>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaveBeCoding&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
