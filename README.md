@@ -3,7 +3,7 @@
 <h2> About me :smiley: </h2>
 <p>C/C++ Software Engineer</p>
 
-- <p>:video_game: Big Nerd :sunglasses:</p>
+- <p>:video_game: Big Nerd - <strong> NWA </strong>:sunglasses:</p>
 - <p>:sunny: Hiking is Cool :earth_americas:</p>
 - <p>👋 I enjoy challenges :octocat: </p>
 - <p>:alien: Currently learning Machine Learning :alien:</p>
