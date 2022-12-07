@@ -20,7 +20,7 @@
 
 <h2>:sparkles: Most used Languages :sparkles: </h2>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaveBeCoding&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<!-- replace -->
 
 
 <h2>:fire: Current Streak :fire:</h2>
